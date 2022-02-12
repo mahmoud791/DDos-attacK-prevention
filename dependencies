@@ -1,3 +1,4 @@
 sudo apt install python3
 sudo apt install pip
 python3 pip install scapy
+sudo apt install iptables
